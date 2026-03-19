@@ -60,7 +60,7 @@ export const contentPtBR: PortfolioContent = {
   },
   experience: {
     title: 'Experiência',
-    subtitle: 'Funções selecionadas e resultados. Arraste ou use as setas.',
+    subtitle: 'Minha trajetória profissional em tecnologia, passando por diferentes contextos, desafios e áreas de atuação.',
     labels: {
       previous: 'Anterior',
       next: 'Próximo',
@@ -265,7 +265,7 @@ export const contentPtBR: PortfolioContent = {
   },
   projects: {
     title: 'Projetos',
-    subtitle: 'Uma seleção curada com execução limpa e UI refinada.',
+    subtitle: 'Projetos selecionados que refletem minha forma de pensar, construir e entregar soluções.',
     items: [
       {
         id: 'proj-1',
@@ -343,7 +343,7 @@ export const contentPtBR: PortfolioContent = {
   },
   about: {
     title: 'Sobre',
-    subtitle: 'Resumo profissional e abordagem de trabalho.',
+    subtitle: 'Visão geral sobre meu perfil, minha forma de trabalhar e os princípios que guiam meu desenvolvimento.',
     paragraphs: [
       'Eu desenho e construo interfaces front-end que priorizam clareza, performance e acessibilidade.',
       'Minha abordagem combina fundamentos sólidos de engenharia com atenção à hierarquia, espaçamento e microinterações.',
@@ -359,7 +359,7 @@ export const contentPtBR: PortfolioContent = {
   },
   skills: {
     title: 'Habilidades',
-    subtitle: 'Um recorte estruturado das ferramentas que uso no dia a dia.',
+    subtitle: 'Tecnologias, ferramentas e conhecimentos que sustentam minha atuação no dia a dia.',
     groups: [
       {
         id: 'frontend',
