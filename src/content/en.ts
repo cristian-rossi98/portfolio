@@ -2,7 +2,7 @@ import type { PortfolioContent } from '../types/content'
 
 export const contentEn: PortfolioContent = {
   meta: {
-    title: 'Portfolio',
+    title: 'Cris Rossi',
     description: 'Premium single-page portfolio for a front-end developer.',
   },
   a11y: {

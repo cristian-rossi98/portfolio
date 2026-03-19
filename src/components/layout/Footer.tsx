@@ -22,7 +22,7 @@ export function Footer() {
               <a
                 key={l.href + l.label}
                 href={l.href}
-                target={l.href.startsWith('http') ? '_blank' : undefined}
+                target={l.href.startsWith('http') ? '_blank' : '_blank'}
                 rel={l.href.startsWith('http') ? 'noreferrer' : undefined}
                 aria-label={l.ariaLabel ?? l.label}
                 className="focus-ring inline-flex items-center gap-2 rounded-xl border border-[color:var(--app-border)] bg-[color:var(--app-surface)] px-3 py-2 text-sm text-[color:var(--app-fg)] transition-colors hover:bg-[color:var(--app-surface2)]"
