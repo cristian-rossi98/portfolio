@@ -59,7 +59,7 @@ export const contentEn: PortfolioContent = {
       },
     ],
     portrait: {
-      src: '/avatar.svg',
+      src: '/avatar.jpg',
       alt: 'Portrait photo',
     },
   },
