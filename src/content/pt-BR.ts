@@ -37,7 +37,7 @@ export const contentPtBR: PortfolioContent = {
     intro:
       'Especialista em front-end moderno, componentização, automação de processos e desenvolvimento de soluções internas em contextos operacionais. Experiência com Zendesk, sistemas internos e fluxos integrados voltados à eficiência e escala operacional.',
     ctas: {
-      primary: { label: 'Baixar CV', href: '/cv.pdf', icon: 'download' },
+      primary: { label: 'Baixar CV', href: '/cv-pt.docx.pdf', icon: 'download' },
     },
     socials: [
       {

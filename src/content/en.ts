@@ -243,7 +243,7 @@ export const contentEn: PortfolioContent = {
       {
         label: 'Download CV',
         ariaLabel: 'Open CV PDF in a new tab',
-        href: '/cv.pdf',
+        href: '/cv-en.docx.pdf',
         icon: 'download',
       },
       {
