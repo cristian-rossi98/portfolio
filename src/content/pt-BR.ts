@@ -402,7 +402,7 @@ export const contentPtBR: PortfolioContent = {
       {
         label: 'Baixar CV',
         ariaLabel: 'Abrir CV em PDF em uma nova aba',
-        href: '/cv.pdf',
+        href: '/cv-pt.docx.pdf',
         icon: 'download',
       },
       {

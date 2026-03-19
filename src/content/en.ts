@@ -42,7 +42,7 @@ export const contentEn: PortfolioContent = {
       { label: 'Perf', value: 'Fast' },
     ],
     ctas: {
-      primary: { label: 'Download CV', href: '/cv.pdf', icon: 'download' },
+      primary: { label: 'Download CV', href: '/cv-en.docx.pdf', icon: 'download' },
     },
     socials: [
       {
