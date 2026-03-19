@@ -54,7 +54,7 @@ export const contentPtBR: PortfolioContent = {
       },
     ],
     portrait: {
-      src: '/avatar.JPG',
+      src: '/avatar.jpg',
       alt: 'Foto de perfil',
     },
   },
