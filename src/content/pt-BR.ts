@@ -73,7 +73,7 @@ export const contentPtBR: PortfolioContent = {
     items: [
       {
         id: 'exp-1',
-        company: 'Via Consulting',
+        company: 'Via Consulting ∙ CLT',
         role: 'Consultor de T.I',
         start: '2023',
         end: 'Atual',
@@ -116,7 +116,7 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-2',
-        company: 'CYGNI Agrociência',
+        company: 'CYGNI Agrociência ∙ CLT',
         role: 'Desenvolvedor Web',
         start: '2020',
         end: '2021',
@@ -144,8 +144,8 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-3',
-        company: 'CIAg -  Grupo Jacto',
-        role: 'Estágio como Pesquisador Tecnológico',
+        company: 'CIAg (Grupo Jacto) ∙ Estágio',
+        role: 'Pesquisador Tecnológico',
         start: '2020',
         end: '2020',
         summary:
@@ -178,8 +178,8 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-4',
-        company: 'Mirai Toyota',
-        role: 'Estágio como Infraestrutura de T.I',
+        company: 'Mirai Toyota ∙ Estágio',
+        role: 'Infraestrutura de T.I',
         start: '2019',
         end: '2019',
         summary:
@@ -187,8 +187,8 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-5',
-        company: 'Consiga Cred',
-        role: 'Estágio como Infraestrutura de T.I',
+        company: 'Consiga Cred ∙ Estágio',
+        role: 'Infraestrutura de T.I',
         start: '2019',
         end: '2019',
         summary:
@@ -196,8 +196,8 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-6',
-        company: 'ONCLICK',
-        role: 'Estágio como Desenvolvevor Delphi',
+        company: 'ONCLICK ∙ Estágio',
+        role: 'Desenvolvevor Delphi',
         start: '2018',
         end: '2019',
         summary:
@@ -230,8 +230,8 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'exp-7',
-        company: 'Assistec Informática',
-        role: 'Estágio como Técnico de Computador',
+        company: 'Assistec Informática ∙ Estágio',
+        role: 'Técnico de Computador',
         start: '2017',
         end: '2018',
         summary:
