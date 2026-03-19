@@ -123,13 +123,6 @@ export const contentPtBR: PortfolioContent = {
         summary:
           'Desenvolvimento web em agricultura digital para sistemas agrícolas.',
         details: {
-          responsibilities: [
-            'Implementei páginas de alto tráfego com semântica e acessibilidade.',
-            'Colaborei com backend para definir contratos de API adequados ao front-end.',
-          ],
-          achievements: [
-            'Aumentei conclusão de formulários simplificando etapas e melhorando validação.',
-          ],
           technologies: ['Vue.JS', 'Tailwind'],
           links: [
             {
@@ -151,19 +144,6 @@ export const contentPtBR: PortfolioContent = {
         summary:
           'Desenvolvimento de sistemas web (Angular e JHipster), raciocínio lógico, back-end com SpringBoot (Java e Kotlin), banco de dados H2, controle de versão com Git e gerenciamento de repositório no GitLab.',
         details: {
-          responsibilities: [
-            'Assumi fluxos críticos de ponta a ponta: discovery, implementação e evolução.',
-            'Criei componentes reutilizáveis e primitivas de layout para acelerar entregas.',
-            'Parceria com design para refinar acessibilidade e estados de interação.',
-          ],
-          achievements: [
-            'Reduzi regressões de UI padronizando padrões e componentes compartilhados.',
-            'Melhorei a pontuação de performance (Lighthouse) com otimizações direcionadas.',
-          ],
-          projects: [
-            'Admin Dashboard: analytics, UI por permissões e tabelas com muitos dados.',
-            'Design System: tokens, componentes e padrões de documentação.',
-          ],
           technologies: ['Angular', 'JHipster', 'SpringBoot', 'H2 Database', 'GitLab'],
           links: [
             {
@@ -184,6 +164,17 @@ export const contentPtBR: PortfolioContent = {
         end: '2019',
         summary:
           'Experiência com hardware, software e redes. Configuração e manutençãode switch, firewall e roteador. Suporte técnico remoto e presencial para solução de problemas.',
+        details: {
+          links: [
+            {
+              label: 'Site da empresa',
+              ariaLabel: 'Abrir site da empresa em uma nova aba',
+              href: 'https://miraitoyota.com.br',
+              icon: 'external',
+            },
+          ],
+        },
+        viewMoreLabel: 'Ver mais',
       },
       {
         id: 'exp-5',
@@ -193,6 +184,17 @@ export const contentPtBR: PortfolioContent = {
         end: '2019',
         summary:
           'Experiência com hardware, software e redes. Configuração e manutençãode switch, firewall e roteador. Suporte técnico remoto e presencial para solução de problemas.',
+        details: {
+          links: [
+            {
+              label: 'Site da empresa',
+              ariaLabel: 'Abrir site da empresa em uma nova aba',
+              href: 'https://consigacred.com.br/',
+              icon: 'external',
+            },
+          ],
+        },
+        viewMoreLabel: 'Ver mais',
       },
       {
         id: 'exp-6',
@@ -203,19 +205,6 @@ export const contentPtBR: PortfolioContent = {
         summary:
           'Desenvolvimento de sistemas ERP, regras de negócio, raciocínio lógico, banco de dados, linguagem SQL, Delphi e revisão de código.',
         details: {
-          responsibilities: [
-            'Assumi fluxos críticos de ponta a ponta: discovery, implementação e evolução.',
-            'Criei componentes reutilizáveis e primitivas de layout para acelerar entregas.',
-            'Parceria com design para refinar acessibilidade e estados de interação.',
-          ],
-          achievements: [
-            'Reduzi regressões de UI padronizando padrões e componentes compartilhados.',
-            'Melhorei a pontuação de performance (Lighthouse) com otimizações direcionadas.',
-          ],
-          projects: [
-            'Admin Dashboard: analytics, UI por permissões e tabelas com muitos dados.',
-            'Design System: tokens, componentes e padrões de documentação.',
-          ],
           technologies: ['Delphi', 'SQL'],
           links: [
             {
@@ -237,19 +226,6 @@ export const contentPtBR: PortfolioContent = {
         summary:
           'Experiência com hardware e instalação de softwares, formatação de computadores e otimização de sistema operacional. Experiência em receber e atender clientes.',
         details: {
-          responsibilities: [
-            'Assumi fluxos críticos de ponta a ponta: discovery, implementação e evolução.',
-            'Criei componentes reutilizáveis e primitivas de layout para acelerar entregas.',
-            'Parceria com design para refinar acessibilidade e estados de interação.',
-          ],
-          achievements: [
-            'Reduzi regressões de UI padronizando padrões e componentes compartilhados.',
-            'Melhorei a pontuação de performance (Lighthouse) com otimizações direcionadas.',
-          ],
-          projects: [
-            'Admin Dashboard: analytics, UI por permissões e tabelas com muitos dados.',
-            'Design System: tokens, componentes e padrões de documentação.',
-          ],
           links: [
             {
               label: 'Site da empresa',
@@ -319,6 +295,28 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'proj-4',
+        name: '[2026] Portfólio',
+        description:
+          'Portfólio pessoal desenvolvido para apresentar minha trajetória, projetos e habilidades com uma interface moderna, responsiva e bilíngue.',
+        image: { src: '/portfolio.png', alt: 'Imagem de capa do projeto' },
+        stack: ['React', 'TypeScript', 'Tailwind', 'Vite', 'Responsive Design', 'i18n Architecture'],
+        links: [
+          {
+            label: 'Ao vivo',
+            ariaLabel: 'Abrir projeto ao vivo em uma nova aba',
+            href: 'https://cristianrossi.com.br/',
+            icon: 'external',
+          },
+          {
+            label: 'Código',
+            ariaLabel: 'Abrir código-fonte em uma nova aba',
+            href: 'https://github.com/cristian-rossi98/portfolio',
+            icon: 'github',
+          },
+        ],
+      },
+      {
+        id: 'proj-5',
         name: '[2023] E-commerce',
         description:
           'Um e-commerce simples para brincar :)',
