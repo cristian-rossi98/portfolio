@@ -140,7 +140,7 @@ export function Header({ onNavigate }: Props) {
                 </a>
 
                 <div className="relative" ref={themeRef}>
-                  <button
+                  {/* <button
                     type="button"
                     className="focus-ring inline-flex items-center gap-2 rounded-xl border border-[color:var(--app-border)] bg-[color:var(--app-surface)] px-3 py-2 text-sm transition-colors hover:bg-[color:var(--app-surface2)]"
                     aria-label="Theme"
@@ -155,7 +155,7 @@ export function Header({ onNavigate }: Props) {
                     <span aria-hidden="true" className="text-[color:var(--app-fgMuted)]">
                       ▾
                     </span>
-                  </button>
+                  </button> */}
 
                   {themeOpen ? (
                     <div
