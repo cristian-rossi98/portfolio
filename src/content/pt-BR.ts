@@ -341,18 +341,19 @@ export const contentPtBR: PortfolioContent = {
   },
   about: {
     title: 'Sobre',
-    subtitle: 'Visão geral sobre meu perfil, minha forma de trabalhar e os princípios que guiam meu desenvolvimento.',
+    subtitle: 'Visão geral sobre mim, minha forma de trabalhar e os princípios que guiam meu desenvolvimento.',
     paragraphs: [
-      'Eu desenho e construo interfaces front-end que priorizam clareza, performance e acessibilidade.',
-      'Minha abordagem combina fundamentos sólidos de engenharia com atenção à hierarquia, espaçamento e microinterações.',
-      'Gosto de colaborar com times para entregar UI confiável, de protótipos rápidos a sistemas em produção.',
-      'De 2021 a 2023 fiz uma pausa na minha carreira para alcance de objetivos pessoais, nesse período foquei em um projeto pessoal artístico de produção musical.'
+      'Meu nome é Cristian e atuo com tecnologia a partir de uma base que combina desenvolvimento, sistemas internos e operações. Ao longo da minha trajetória, passei por contextos diferentes, o que me deu uma visão mais ampla sobre como estruturar soluções de forma clara, útil e sustentável.',
+      'Hoje, atuo principalmente em frentes de front-end e eficiência operacional, unindo lógica, organização e atenção à experiência de uso. Ao mesmo tempo, carrego uma forte conexão com estética, sensibilidade visual e processos criativos, o que influencia diretamente a forma como penso interfaces, detalhes e construção de produto.',
+      'Entre 2021 e 2023, fiz uma pausa na carreira para buscar objetivos pessoais e me dedicar a um projeto autoral de produção musical, período que também ampliou minha visão criativa, repertório e forma de enxergar problemas com mais profundidade.'
     ],
     highlights: [
-      { label: 'Foco', value: 'Design systems, performance, arquitetura de UI' },
-      { label: 'Stack', value: 'React + TypeScript' },
-      { label: 'Colaboração', value: 'Produto, Design, Engenharia e Documentação' },
-      { label: 'Formação', value: 'Bacharelado em Sistemas de Informação pela UNIVEM em 2020' },
+      { label: 'Formação', value: 'Bacharelado em Sistemas de Informação pela UNIVEM, concluído em 2020.' },
+      { label: 'Hobbies', value: 'Produção musical, design, violão, bateria, boxe e exploração de referências culturais e criativas.' },
+      {
+        label: 'Desenvolvimento Pessoal',
+        value: '∙ Vice-presidente do Interact Club de Marília, patrocinado pelo Rotary, na gestão 2016/17\n∙ Membro da Ordem DeMolay, apoiada pela Maçonaria, desde 2016\n∙ Participação no Processo Hoffman, formação intensiva de autoconhecimento, em 2021\n∙ Participação no Master PH, etapa avançada da metodologia Hoffman com foco em autoconhecimento e autoliderança, em 2021'
+      }
     ],
   },
   skills: {
@@ -361,13 +362,13 @@ export const contentPtBR: PortfolioContent = {
     groups: [
       {
         id: 'frontend',
-        title: 'Frontend Tech',
-        items: ['React', 'TypeScript', 'Tailwind CSS', 'HTML', 'CSS', 'Vite'],
+        title: 'Tecnologias',
+        items: ['React', 'TypeScript', 'Zendesk', 'Next.js', 'Python', 'JavaScript', 'Vite', 'Tailwind', 'Git'],
       },
       {
         id: 'design',
-        title: 'Design Tools',
-        items: ['Photoshop', 'Illustrator'],
+        title: 'Design',
+        items: ['Adobe Photoshop', 'Adobe Illustrator'],
       },
       {
         id: 'languages',
@@ -376,14 +377,14 @@ export const contentPtBR: PortfolioContent = {
       },
       {
         id: 'tools',
-        title: 'Tools & Platforms',
-        items: ['GitHub', 'Vercel', 'Zendesk', 'Jira'],
+        title: 'Soft Skills',
+        items: ['Comunicação', 'Criatividade', 'Empatia', 'Proatividade', 'Liderança'],
       },
     ],
   },
   footer: {
     title: 'Contato',
-    note: 'Disponível para vagas CLT e PJ.',
+    note: 'Disponível para oportunidades CLT, PJ e projetos freelance selecionados.',
     links: [
       {
         label: 'Email',

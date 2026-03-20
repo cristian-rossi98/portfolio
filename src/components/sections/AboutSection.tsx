@@ -29,7 +29,7 @@ export function AboutSection() {
                 <div className="text-xs font-medium uppercase tracking-wide text-[color:var(--app-fgMuted)]">
                   {h.label}
                 </div>
-                <div className="mt-2 text-sm leading-7 text-[color:var(--app-fg)]">{h.value}</div>
+                <div className="mt-2 text-sm leading-7 text-[color:var(--app-fg)] whitespace-pre-line">{h.value}</div>
               </Card>
             ))}
           </div>
