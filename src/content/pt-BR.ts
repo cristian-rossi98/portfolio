@@ -302,12 +302,6 @@ export const contentPtBR: PortfolioContent = {
         stack: ['React', 'TypeScript', 'Tailwind', 'Vite', 'Responsive Design', 'i18n Architecture'],
         links: [
           {
-            label: 'Ao vivo',
-            ariaLabel: 'Abrir projeto ao vivo em uma nova aba',
-            href: 'https://cristianrossi.com.br/',
-            icon: 'external',
-          },
-          {
             label: 'Código',
             ariaLabel: 'Abrir código-fonte em uma nova aba',
             href: 'https://github.com/cristian-rossi98/portfolio',
